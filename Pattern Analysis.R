@@ -1,13 +1,5 @@
----
-title: "CASA Tropics Diversification Review: Pattern Analysis"
-author: "Annette Kang"
-output:
-  github_document:
-  toc: true
-toc_depth: 3
----
-  
-#Analyses for CASA Tropics Diversification Review
+
+#Pattern Analyses for CASA Tropics Diversification Review
 
 #Installing required packages and loading data
 ##PACKAGES

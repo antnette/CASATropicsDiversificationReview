@@ -1,5 +1,5 @@
 ---
-title: **"Revisiting Central American and South American Tropics diversification: reviewing known diversification hypotheses, exploring patterns of coverage, and implications for future work"**
+title: "Revisiting Central American and South American Tropics diversification: reviewing known diversification hypotheses, exploring patterns of coverage, and implications for future work"
 author: "Annette Kang<sup>1*</sup> & Corrie S. Moreau<sup>1,2</sup>"
 affiliation: "<sup>1</sup>Department of Entomology, Cornell University, Ithaca, New York, USA"
 affiliation2: "<sup>2</sup>Department of Ecology and Evolutionary Biology, Cornell University, Ithaca, New York, USA"
@@ -65,27 +65,3 @@ In order to run these fine grain tests on gathered data, we re-organized the fin
 
 For full script on deeper pattern analysis, navigate to "Pattern Analysis.R" script in the repository.
 
-
-## R Markdown
-
-hashtag is a title
-double hashtag is a subtitle
-
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that
-includes both content as well as the output of any embedded R code
-chunks within the document. You can embed an R code chunk like this:
-
-`{r cars} summary(cars)`
-
-## Including Plots
-
-You can also embed plots, for example:
-
-`{r pressure, echo=FALSE} plot(pressure)`
-
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.

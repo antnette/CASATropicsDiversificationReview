@@ -24,30 +24,30 @@ Unique Records are found on sheet "Unique Records Pull" in "Kang and Moreau_Supp
 
 We then sorted through this large compilation to make sure it satisfied our search parameters 
 
-###TAXA
-Amphibians
-Insects
-Reptiles
-Mammals
-Birds
-Plants
+**TAXA**
+(Amphibians)
+(Insects)
+(Reptiles)
+(Mammals)
+(Birds)
+(Plants)
 
-###BIOGEOGRAPHIC REGIONS
-Amazonia
-Chaco
-North of IP
-Parana
-South of IP
-Tropical Andes
+**BIOGEOGRAPHIC REGIONS**
+(Amazonia)
+(Chaco)
+(North of IP)
+(Parana)
+(South of IP)
+(Tropical Andes)
 
-###DIVERSFICATION MODES
-Andes Uplift
-IP Emergence and CAS Closure
-Miocene Marine Incursions
-Pleistocene Climate
-Pleistocene Landscape
-Riverine Barrier
-Eastern South American Dry Diagonal
+**DIVERSFICATION MODES**
+(Andes Uplift)
+(IP Emergence and CAS Closure)
+(Miocene Marine Incursions)
+(Pleistocene Climate)
+(Pleistocene Landscape)
+(Riverine Barrier)
+(Eastern South American Dry Diagonal)
 
 
 Following sorting and categorizing, final literature used can be found on "Data Pull (Literature Analyzed)" sheet.

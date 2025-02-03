@@ -1,4 +1,4 @@
-Revisiting Central American and South American Tropics diversification: reviewing known diversification hypotheses, exploring patterns of coverage, and implications for future work
+Revisiting diversification in the American Tropics: reviewing known diversification hypotheses, exploring patterns of coverage, and implications for future work
 ================
 Annette Kang <sup>1*</sup> & Corrie S. Moreau <sup>1,2</sup>
 
